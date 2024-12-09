@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 12px 80px;
+    padding-top: 12px;
+    align-items: center;
+}
+
+#logo {
+    vertical-align: middle;
+}
+
+#nav-list,
+#nav-list li {
+    display: inline-block;
+    margin: 20px;
+}
+
+#nav-list {
+    vertical-align: middle;
+    margin-left: 179px;
+}
+
+#nav-list li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #323232;
+}
+
+#button {
+    display: inline-block;
+    margin-left: 179px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    align-items: center;
+}
+
+#simplediv {
+    display: inline-block;
+    max-width: 841px;
+    margin-left: 214px;
+    margin-top: 64px
+}
+
+#simpleh {
+    width: 720px;
+    color: #323232;
+    font-size: 64px;
+}
+
+#simplediv p {
+    margin-top: 24px;
+    color: #323232;
+    font-size: 24px;
+}
+
+#buttontwo {
+    display: inline-block;
+    width: 204px;
+    padding: 16px 24px;
+    align-items: center;
+    border-radius: 8px;
+    background: #5C3BAE;
+    margin-top: 24px;
+    color: #FFF;
+    font-size: 18px;
+}
+
+#grouplogo {
+    display: inline-block;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    margin-left: 24px;
+    vertical-align: middle;
+}
+
+#watchvideo {
+    margin-left: 12px;
+    color: #4D3491;
+    font-size: 18px;
+    vertical-align: middle;
+
+}
+
+#cardsdiv {
+   text-align: right;
+   margin-top: -100px;
+}
+
+#cards {
+    width: 1000px;
+    
+}
